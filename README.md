@@ -4,5 +4,6 @@ This covers all of the meeting presentations for the Mobile App Development Grou
 Here are some useful resources: 
 Flutter Documentation:
 https://docs.flutter.dev/
+
 Flutter for beginners tutorials
 https://youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ&si=qM9LwNzOOhQz5KgT
